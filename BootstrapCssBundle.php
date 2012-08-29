@@ -1,6 +1,6 @@
 <?php
 
-namespace Skjb\Bundle\BootstrapCssBundle;
+namespace Bootstrap\BootstrapCssBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
